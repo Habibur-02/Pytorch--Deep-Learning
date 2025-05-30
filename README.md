@@ -10,3 +10,5 @@
 
 
 This repository explores deep learning techniques using PyTorch, covering various neural network architectures, training pipelines, and data handling strategies. It includes well-documented examples, practical code snippets, and insights for anyone looking to deepen their understanding of PyTorch and deep learning.
+
+See ANN.ipynb in Kaggle [![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-006400?logo=kaggle&logoColor=white&style=for-the-badge)](https://www.kaggle.com/code/habibur02/ann-with-pytorch)

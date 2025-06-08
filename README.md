@@ -16,4 +16,4 @@ See ANN.ipynb in Kaggle [![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-
 See Circle Prediction with 99.83% accuracy in Kaggle [![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-006400?logo=kaggle&logoColor=white&style=for-the-badge)](https://www.kaggle.com/code/habibur02/ann-for-circle-with-99-83-accuracy)
 
 
-See MNIST image Dataset 99.83% accuracy in Kaggle [![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-006400?logo=kaggle&logoColor=white&style=for-the-badge)](https://www.kaggle.com/code/habibur02/image-classifier-fashion-mnist)
+See MNIST image Dataset 89% accuracy in Kaggle [![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-006400?logo=kaggle&logoColor=white&style=for-the-badge)](https://www.kaggle.com/code/habibur02/image-classifier-fashion-mnist)

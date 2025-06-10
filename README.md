@@ -21,3 +21,5 @@ See MNIST image Dataset 89% accuracy in Kaggle [![Kaggle](https://img.shields.io
 
 See Breast Cancer prediction 95% +  accuracy in Kaggle [![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-006400?logo=kaggle&logoColor=white&style=for-the-badge)](https://www.kaggle.com/code/habibur02/breast-cancer-prediction-with-pytorch)
 
+See Iris Datastet with 100% accuracy [![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-006400?logo=kaggle&logoColor=white&style=for-the-badge)](https://www.kaggle.com/code/habibur02/iris-dataset-with-100-accuracy)
+
